@@ -1,7 +1,15 @@
-div {
+/*div {
   border: 1px solid black;
 }
 
 .height {
   height: 300px;
+}*/
+.input-group {
+  width: 100%!important;
+  margin-top: 10px;
+}
+
+input {
+  border-radius: 25px!important;
 }
